@@ -1,2 +1,0 @@
-# Data_Science-
-A_project_that_filter_clean_and_analysis_Accidents_dataset_for_Colorado_and_Oklahoma_in_the_US
